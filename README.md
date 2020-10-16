@@ -3,9 +3,9 @@
 
 <div align="center">
 🔭 <br>
-  I’m currently working on a <a href="https://github.com/nicoleobom/Planner">MERN stack daily planner</a> that helps you organize and plan your day while receiving motivational quotes and take notes.<br><br>
+  I’m currently working on a <a href="https://github.com/nicoleobom/Planner">MERN stack daily planner</a> that helps you organize and plan your day<br>while receiving motivational quotes and take notes.<br><br>
 🌱<br>
-  I’m currently learning **Python** and **training to become an AWS certified developer.**
+  I’m currently learning <b>Python</b> and <b>training to become an AWS certified developer.</b>
 👨‍💻 <br>
   All of my projects are available on <a href="https://www.nicoleobomsawin.com">my website</a><br><br>
  💬<br>
