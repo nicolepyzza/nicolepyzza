@@ -1,15 +1,16 @@
 <h1 align="center">Hi, I'm Nicole O'Bomsawin.</h1>
 <h3 align="center">I am a passionate software developer with a primary focus in MongoDB, Express, React, and Node.js (MERN Stack) in addition to front-end languages, libraries, and frameworks. I have experience collaborating on multiple web projects for small businesses and Fortune 500 companies.</h3>
 
-- 🔭 I’m currently working on [a MERN stack daily planner](https://github.com/nicoleobom/Planner) that helps you organize and plan your day while receiving motivational quotes and take notes.
-
-- 🌱 I’m currently learning **Python** and **training to become an AWS certified developer.**
-
-- 👨‍💻 All of my projects are available on [my website](https://www.nicoleobomsawin.com)
-
-- 💬 My favorite library to use is **React**
-
-- 📫 Feel free to reach me at **nicoleobomsawin@gmail.com**
+<div align="center">
+🔭 <br>
+  I’m currently working on [a MERN stack daily planner](https://github.com/nicoleobom/Planner) that helps you organize and plan your day while receiving motivational quotes and take notes.<br><br>
+🌱<br>
+  I’m currently learning **Python** and **training to become an AWS certified developer.**
+👨‍💻 <br>
+  All of my projects are available on [my website](https://www.nicoleobomsawin.com)<br><br>
+ 💬<br>
+  My favorite library to use is **React**<br><br>
+📫<br>Feel free to reach me at **nicoleobomsawin@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
