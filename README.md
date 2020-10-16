@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicole O'Bomsawin.</h1>
 <h3 align="center">I am a passionate software developer with a primary focus in MongoDB, Express, React, and Node.js (MERN Stack) in addition to front-end languages, libraries, and frameworks. I have experience collaborating on multiple web projects for small businesses and Fortune 500 companies.</h3>
 
-<h5 align="center" style="color: green;">I'm open to work!</h5>
+<h4 align="center">I'm open to work!</h4>
 
 <div align="center">
 🔭 <br>
