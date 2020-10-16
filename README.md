@@ -3,7 +3,7 @@
 
 <div align="center">
 🔭 <br>
-  I’m currently working on a <a href="https://github.com/nicoleobom/Planner">MERN stack daily planner</a> that helps you organize and plan your day<br>while receiving motivational quotes and take notes.<br><br>
+  I’m currently working on a <a href="https://github.com/nicoleobom/chatbot">Python-based chatbot</a> that takes user input and<br>generates a response based on that input<br><br>
 🌱<br>
   I’m currently learning <b>Python</b> and <b>training to become an AWS certified developer.</b>
 👨‍💻 <br>
