@@ -3,11 +3,11 @@
 
 <div align="center">
 🔭 <br>
-  I’m currently working on [a MERN stack daily planner](https://github.com/nicoleobom/Planner) that helps you organize and plan your day while receiving motivational quotes and take notes.<br><br>
+  I’m currently working on a <a href="https://github.com/nicoleobom/Planner">MERN stack daily planner</a> that helps you organize and plan your day while receiving motivational quotes and take notes.<br><br>
 🌱<br>
   I’m currently learning **Python** and **training to become an AWS certified developer.**
 👨‍💻 <br>
-  All of my projects are available on [my website](https://www.nicoleobomsawin.com)<br><br>
+  All of my projects are available on <a href="https://www.nicoleobomsawin.com">my website</a><br><br>
  💬<br>
   My favorite library to use is **React**<br><br>
 📫<br>Feel free to reach me at **nicoleobomsawin@gmail.com**
