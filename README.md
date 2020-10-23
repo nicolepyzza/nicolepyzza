@@ -9,7 +9,7 @@
 🌱<br>
   I’m currently learning <b>Python</b> and <b>training to become an AWS certified developer.</b>
 👨‍💻 <br>
-  All of my projects are available on <a href="https://www.nicoleobomsawin.com">my website</a><br><br>
+  My favorite projects are available on <a href="https://www.nicoleobomsawin.com">my website</a><br><br>
  💬<br>
   My favorite library to use is <b>React</b><br><br>
 📫<br>Feel free to reach me at <a href="mailto:nicoleobomsawin@gmail.com">nicoleobomsawin@gmail.com</a>
