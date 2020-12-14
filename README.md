@@ -7,7 +7,7 @@
 🔭 <br>
   I’m currently working on a <a href="https://github.com/nicoleobom/MadLibs">Python-based CLI MadLibs generator</a> that takes user input and<br>generates a fun Christmas MadLibs based on that input<br><br>
 🌱<br>
-  I’m currently learning <b>Python</b> and <b>training to become an AWS certified developer.</b>
+  I’m currently learning <b>Python</b> and <b>training to become an AWS certified cloud practitioner.</b>
 👨‍💻 <br>
   My favorite projects are available on <a href="https://www.nicoleobomsawin.com">my website</a><br><br>
  💬<br>
