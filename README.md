@@ -14,12 +14,6 @@
   My favorite library to use is <b>React</b><br><br>
 📫<br>Feel free to reach me at <a href="mailto:nicoleobomsawin@gmail.com">nicoleobomsawin@gmail.com</a>
 
-<p align="center">
-<h3>Connect with me:</h3>
-<a href="https://dev.to/nicoleobom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nicoleobom" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nicoleobom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicoleobom" height="30" width="40" /></a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleobom&layout=compact" alt="nicoleobom" /></p>
