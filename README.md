@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoleobom&label=Profile%20views&color=0e75b6&style=flat" alt="nicoleobom" /> </p>
 
 <h1 align="center">Hi, I'm Nicole Pyzza :pizza:</h1>
-<h3 align="center">A dedicated and passionate software engineer with experience in DevOps, front-end development, and customer service. Proficient in communications with technical and non-technical teams at Fortune 500 and 1000 companies.</h3>
+<h3 align="center">A dedicated and passionate software engineer with experience in DevOps, front-end development, and customer service. Proficient in communications with technical and non-technical teams at Fortune 500 companies.</h3>
 
 <div align="center">
 :briefcase: <br>
