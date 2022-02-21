@@ -1,3 +1,4 @@
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoleobom&label=Profile%20views&color=0e75b6&style=flat" alt="nicoleobom" /> </p>
 
 <h1 align="center">Hi, I'm Nicole Pyzza :pizza:</h1>
@@ -5,11 +6,9 @@
 
 <div align="center">
 :briefcase: <br>
-  I'm an Associate DevOps Engineer at Infor, responsible for automation through the use of AWS, Azure, Terraform, and more. <br><br>
-:snake: <br>
-  I’m currently working on a Snake game through the use of Python<br><br>
+  I'm currently a Cloud- and DevOps-focused Consultant at Slalom. <br><br>
 :computer:<br>
-  I’m currently learning on honing my skills in Python and C++<br><br>
+  I’m focusing on learning more about the Cloud, networking, security, and infrastructure as code.<br><br>
 📫<br>Feel free to reach me at <a href="mailto:nicolepyzza@gmail.com">nicolepyzza@gmail.com</a><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolepyzza&layout=compact" alt="nicolepyzza" /></p>
