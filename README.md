@@ -5,7 +5,8 @@
 
 <div align="center">
 :briefcase: <br>
-  I'm currently a Consultant at Slalom, focused on DevOps and Application Development in AWS.<br><br>
+  I'm currently a DevOps/Site Reliability Engineer at Cox Automotive/Manheim<br>
+  with experience in <b>aws, terraform, javascript, typescript, python and more.</b><br><br>
 📫<br>Feel free to reach me at <a href="mailto:nicolepyzza@gmail.com">nicolepyzza@gmail.com</a><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolepyzza&layout=compact" alt="nicolepyzza" /></p>
